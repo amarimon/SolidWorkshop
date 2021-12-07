@@ -1,5 +1,5 @@
 # SolidWorkshop
-SOLID principles simple examples
+SOLID principles simple examples (c# .NET 5)
 
 
 ## SOLID Principles
