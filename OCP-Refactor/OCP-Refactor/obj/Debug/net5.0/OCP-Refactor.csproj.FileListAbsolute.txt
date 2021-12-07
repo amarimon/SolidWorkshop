@@ -1,0 +1,15 @@
+C:\src\CAR\I+D\SolidWorkshop\OCP-Refactor\OCP-Refactor\obj\Debug\net5.0\OCP-Refactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\CAR\I+D\SolidWorkshop\OCP-Refactor\OCP-Refactor\obj\Debug\net5.0\OCP-Refactor.AssemblyInfoInputs.cache
+C:\src\CAR\I+D\SolidWorkshop\OCP-Refactor\OCP-Refactor\obj\Debug\net5.0\OCP-Refactor.AssemblyInfo.cs
+C:\src\CAR\I+D\SolidWorkshop\OCP-Refactor\OCP-Refactor\obj\Debug\net5.0\OCP-Refactor.csproj.CoreCompileInputs.cache
+C:\src\CAR\I+D\SolidWorkshop\OCP-Refactor\OCP-Refactor\bin\Debug\net5.0\OCP-Refactor.exe
+C:\src\CAR\I+D\SolidWorkshop\OCP-Refactor\OCP-Refactor\bin\Debug\net5.0\OCP-Refactor.deps.json
+C:\src\CAR\I+D\SolidWorkshop\OCP-Refactor\OCP-Refactor\bin\Debug\net5.0\OCP-Refactor.runtimeconfig.json
+C:\src\CAR\I+D\SolidWorkshop\OCP-Refactor\OCP-Refactor\bin\Debug\net5.0\OCP-Refactor.runtimeconfig.dev.json
+C:\src\CAR\I+D\SolidWorkshop\OCP-Refactor\OCP-Refactor\bin\Debug\net5.0\OCP-Refactor.dll
+C:\src\CAR\I+D\SolidWorkshop\OCP-Refactor\OCP-Refactor\bin\Debug\net5.0\ref\OCP-Refactor.dll
+C:\src\CAR\I+D\SolidWorkshop\OCP-Refactor\OCP-Refactor\bin\Debug\net5.0\OCP-Refactor.pdb
+C:\src\CAR\I+D\SolidWorkshop\OCP-Refactor\OCP-Refactor\obj\Debug\net5.0\OCP-Refactor.dll
+C:\src\CAR\I+D\SolidWorkshop\OCP-Refactor\OCP-Refactor\obj\Debug\net5.0\ref\OCP-Refactor.dll
+C:\src\CAR\I+D\SolidWorkshop\OCP-Refactor\OCP-Refactor\obj\Debug\net5.0\OCP-Refactor.pdb
+C:\src\CAR\I+D\SolidWorkshop\OCP-Refactor\OCP-Refactor\obj\Debug\net5.0\OCP-Refactor.genruntimeconfig.cache
