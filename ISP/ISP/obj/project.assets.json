@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\src\\CAR\\I+D\\SolidWorkshop\\ISP\\ISP\\ISP.csproj",
+      "projectUniqueName": "C:\\src\\amarimon\\SolidWorkshop\\ISP\\ISP\\ISP.csproj",
       "projectName": "ISP",
-      "projectPath": "C:\\src\\CAR\\I+D\\SolidWorkshop\\ISP\\ISP\\ISP.csproj",
+      "projectPath": "C:\\src\\amarimon\\SolidWorkshop\\ISP\\ISP\\ISP.csproj",
       "packagesPath": "C:\\Users\\ama\\.nuget\\packages\\",
-      "outputPath": "C:\\src\\CAR\\I+D\\SolidWorkshop\\ISP\\ISP\\obj\\",
+      "outputPath": "C:\\src\\amarimon\\SolidWorkshop\\ISP\\ISP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ama\\AppData\\Roaming\\NuGet\\NuGet.Config",
