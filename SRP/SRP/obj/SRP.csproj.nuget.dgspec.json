@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\CAR\\I+D\\SolidWorkshop\\SRP\\SRP\\SRP.csproj": {}
+    "C:\\src\\amarimon\\SolidWorkshop\\SRP\\SRP\\SRP.csproj": {}
   },
   "projects": {
-    "C:\\src\\CAR\\I+D\\SolidWorkshop\\SRP\\SRP\\SRP.csproj": {
+    "C:\\src\\amarimon\\SolidWorkshop\\SRP\\SRP\\SRP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\CAR\\I+D\\SolidWorkshop\\SRP\\SRP\\SRP.csproj",
+        "projectUniqueName": "C:\\src\\amarimon\\SolidWorkshop\\SRP\\SRP\\SRP.csproj",
         "projectName": "SRP",
-        "projectPath": "C:\\src\\CAR\\I+D\\SolidWorkshop\\SRP\\SRP\\SRP.csproj",
+        "projectPath": "C:\\src\\amarimon\\SolidWorkshop\\SRP\\SRP\\SRP.csproj",
         "packagesPath": "C:\\Users\\ama\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\CAR\\I+D\\SolidWorkshop\\SRP\\SRP\\obj\\",
+        "outputPath": "C:\\src\\amarimon\\SolidWorkshop\\SRP\\SRP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,7 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\src\\CAR\\SERVER\\COMMON\\trunk\\CarLib\\CarLib.csproj": {
-                "projectPath": "C:\\src\\CAR\\SERVER\\COMMON\\trunk\\CarLib\\CarLib.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -60,16 +56,6 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
-      }
-    },
-    "C:\\src\\CAR\\SERVER\\COMMON\\trunk\\CarLib\\CarLib.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\src\\CAR\\SERVER\\COMMON\\trunk\\CarLib\\CarLib.csproj",
-        "projectName": "CarLib",
-        "projectPath": "C:\\src\\CAR\\SERVER\\COMMON\\trunk\\CarLib\\CarLib.csproj"
-      },
-      "frameworks": {
-        "net461": {}
       }
     }
   }

@@ -6,8 +6,4 @@
     <RootNamespace>SRP_Refactor</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\..\SERVER\COMMON\trunk\CarLib\CarLib.csproj" />
-  </ItemGroup>
-
 </Project>

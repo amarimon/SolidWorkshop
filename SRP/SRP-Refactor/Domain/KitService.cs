@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using Carlib.Common.Database;
+﻿using System.Collections.Generic;
 using SRP_Refactor.Domain;
 
 namespace SRP_Refactor
