@@ -1,0 +1,15 @@
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\bin\Debug\net5.0\ISP-Refactor.exe
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\bin\Debug\net5.0\ISP-Refactor.deps.json
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\bin\Debug\net5.0\ISP-Refactor.runtimeconfig.json
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\bin\Debug\net5.0\ISP-Refactor.runtimeconfig.dev.json
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\bin\Debug\net5.0\ISP-Refactor.dll
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\bin\Debug\net5.0\ref\ISP-Refactor.dll
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\bin\Debug\net5.0\ISP-Refactor.pdb
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\obj\Debug\net5.0\ISP-Refactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\obj\Debug\net5.0\ISP-Refactor.AssemblyInfoInputs.cache
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\obj\Debug\net5.0\ISP-Refactor.AssemblyInfo.cs
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\obj\Debug\net5.0\ISP-Refactor.csproj.CoreCompileInputs.cache
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\obj\Debug\net5.0\ISP-Refactor.dll
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\obj\Debug\net5.0\ref\ISP-Refactor.dll
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\obj\Debug\net5.0\ISP-Refactor.pdb
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\obj\Debug\net5.0\ISP-Refactor.genruntimeconfig.cache
