@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ISP.Domain
+namespace ISP_Refactor.Domain
 {
     class Offer : IImputableElement
     {

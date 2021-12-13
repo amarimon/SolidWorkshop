@@ -1,4 +1,4 @@
-﻿namespace ISP.Domain
+﻿namespace ISP_Refactor.Domain
 {
     public class Labour
     {

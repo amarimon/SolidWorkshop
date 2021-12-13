@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ISP
+namespace ISP_Refactor
 {
     class Program
     {

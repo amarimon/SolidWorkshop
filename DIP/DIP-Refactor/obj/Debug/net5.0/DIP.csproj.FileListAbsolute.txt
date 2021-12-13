@@ -1,0 +1,15 @@
+C:\src\amarimon\SolidWorkshop\DIP\DIP\obj\Debug\net5.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\amarimon\SolidWorkshop\DIP\DIP\obj\Debug\net5.0\DIP.AssemblyInfoInputs.cache
+C:\src\amarimon\SolidWorkshop\DIP\DIP\obj\Debug\net5.0\DIP.AssemblyInfo.cs
+C:\src\amarimon\SolidWorkshop\DIP\DIP\obj\Debug\net5.0\DIP.csproj.CoreCompileInputs.cache
+C:\src\amarimon\SolidWorkshop\DIP\DIP\bin\Debug\net5.0\DIP.exe
+C:\src\amarimon\SolidWorkshop\DIP\DIP\bin\Debug\net5.0\DIP.deps.json
+C:\src\amarimon\SolidWorkshop\DIP\DIP\bin\Debug\net5.0\DIP.runtimeconfig.json
+C:\src\amarimon\SolidWorkshop\DIP\DIP\bin\Debug\net5.0\DIP.runtimeconfig.dev.json
+C:\src\amarimon\SolidWorkshop\DIP\DIP\bin\Debug\net5.0\DIP.dll
+C:\src\amarimon\SolidWorkshop\DIP\DIP\bin\Debug\net5.0\ref\DIP.dll
+C:\src\amarimon\SolidWorkshop\DIP\DIP\bin\Debug\net5.0\DIP.pdb
+C:\src\amarimon\SolidWorkshop\DIP\DIP\obj\Debug\net5.0\DIP.dll
+C:\src\amarimon\SolidWorkshop\DIP\DIP\obj\Debug\net5.0\ref\DIP.dll
+C:\src\amarimon\SolidWorkshop\DIP\DIP\obj\Debug\net5.0\DIP.pdb
+C:\src\amarimon\SolidWorkshop\DIP\DIP\obj\Debug\net5.0\DIP.genruntimeconfig.cache

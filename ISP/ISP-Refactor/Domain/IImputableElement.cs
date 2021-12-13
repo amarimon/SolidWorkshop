@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ISP.Domain
+namespace ISP_Refactor.Domain
 {
     internal interface IImputableElement
     {

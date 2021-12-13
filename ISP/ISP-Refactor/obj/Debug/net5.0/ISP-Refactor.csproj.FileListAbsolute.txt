@@ -13,3 +13,4 @@ C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\obj\Debug\net5.0\ISP-Refactor.dll
 C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\obj\Debug\net5.0\ref\ISP-Refactor.dll
 C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\obj\Debug\net5.0\ISP-Refactor.pdb
 C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\obj\Debug\net5.0\ISP-Refactor.genruntimeconfig.cache
+C:\src\amarimon\SolidWorkshop\ISP\ISP-Refactor\obj\Debug\net5.0\ISP-Refactor.csproj.AssemblyReference.cache
