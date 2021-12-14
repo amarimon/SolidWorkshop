@@ -19,7 +19,7 @@ namespace ISP.Domain
             throw new NotImplementedException();
         }
 
-        public double CalculateSparepartsPrice(IEnumerable<Sparepart> labours)
+        public double CalculateSparepartsPrice(IEnumerable<Sparepart> spareparts)
         {
             //return 0;
             throw new NotImplementedException();

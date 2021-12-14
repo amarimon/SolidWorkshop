@@ -8,7 +8,7 @@
 
         internal double CalculateTotal(Element element)
         {
-            if (element == null) return -1;
+            if (element == null) return 0;
 
             return element.CalculateCost();
         }

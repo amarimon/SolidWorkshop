@@ -16,7 +16,11 @@ namespace LSP.Domain
         {
             base.AddTrack(newTrack);
 
-            //Update odometer.
+            recalculateOdometer();
+        }
+
+        private void recalculateOdometer()
+        {
             foreach (var trip in tracks)
             {
                 Odometer += trip.Distance;

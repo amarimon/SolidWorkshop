@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\src\\CAR\\I+D\\SolidWorkshop\\OCP\\OCP\\OCP.csproj",
+      "projectUniqueName": "C:\\src\\amarimon\\SolidWorkshop\\OCP\\OCP\\OCP.csproj",
       "projectName": "OCP",
-      "projectPath": "C:\\src\\CAR\\I+D\\SolidWorkshop\\OCP\\OCP\\OCP.csproj",
+      "projectPath": "C:\\src\\amarimon\\SolidWorkshop\\OCP\\OCP\\OCP.csproj",
       "packagesPath": "C:\\Users\\ama\\.nuget\\packages\\",
-      "outputPath": "C:\\src\\CAR\\I+D\\SolidWorkshop\\OCP\\OCP\\obj\\",
+      "outputPath": "C:\\src\\amarimon\\SolidWorkshop\\OCP\\OCP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ama\\AppData\\Roaming\\NuGet\\NuGet.Config",

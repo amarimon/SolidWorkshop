@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\src\\CAR\\I+D\\SolidWorkshop\\LSP\\LSP\\LSP.csproj",
+      "projectUniqueName": "C:\\src\\amarimon\\SolidWorkshop\\LSP\\LSP.csproj",
       "projectName": "LSP",
-      "projectPath": "C:\\src\\CAR\\I+D\\SolidWorkshop\\LSP\\LSP\\LSP.csproj",
+      "projectPath": "C:\\src\\amarimon\\SolidWorkshop\\LSP\\LSP.csproj",
       "packagesPath": "C:\\Users\\ama\\.nuget\\packages\\",
-      "outputPath": "C:\\src\\CAR\\I+D\\SolidWorkshop\\LSP\\LSP\\obj\\",
+      "outputPath": "C:\\src\\amarimon\\SolidWorkshop\\LSP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ama\\AppData\\Roaming\\NuGet\\NuGet.Config",

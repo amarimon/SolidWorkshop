@@ -1,0 +1,16 @@
+C:\src\amarimon\SolidWorkshop\OCP\OCP\bin\Debug\net5.0\OCP.exe
+C:\src\amarimon\SolidWorkshop\OCP\OCP\bin\Debug\net5.0\OCP.deps.json
+C:\src\amarimon\SolidWorkshop\OCP\OCP\bin\Debug\net5.0\OCP.runtimeconfig.json
+C:\src\amarimon\SolidWorkshop\OCP\OCP\bin\Debug\net5.0\OCP.runtimeconfig.dev.json
+C:\src\amarimon\SolidWorkshop\OCP\OCP\bin\Debug\net5.0\OCP.dll
+C:\src\amarimon\SolidWorkshop\OCP\OCP\bin\Debug\net5.0\ref\OCP.dll
+C:\src\amarimon\SolidWorkshop\OCP\OCP\bin\Debug\net5.0\OCP.pdb
+C:\src\amarimon\SolidWorkshop\OCP\OCP\obj\Debug\net5.0\OCP.csproj.AssemblyReference.cache
+C:\src\amarimon\SolidWorkshop\OCP\OCP\obj\Debug\net5.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\amarimon\SolidWorkshop\OCP\OCP\obj\Debug\net5.0\OCP.AssemblyInfoInputs.cache
+C:\src\amarimon\SolidWorkshop\OCP\OCP\obj\Debug\net5.0\OCP.AssemblyInfo.cs
+C:\src\amarimon\SolidWorkshop\OCP\OCP\obj\Debug\net5.0\OCP.csproj.CoreCompileInputs.cache
+C:\src\amarimon\SolidWorkshop\OCP\OCP\obj\Debug\net5.0\OCP.dll
+C:\src\amarimon\SolidWorkshop\OCP\OCP\obj\Debug\net5.0\ref\OCP.dll
+C:\src\amarimon\SolidWorkshop\OCP\OCP\obj\Debug\net5.0\OCP.pdb
+C:\src\amarimon\SolidWorkshop\OCP\OCP\obj\Debug\net5.0\OCP.genruntimeconfig.cache

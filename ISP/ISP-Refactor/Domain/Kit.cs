@@ -22,7 +22,7 @@ namespace ISP_Refactor.Domain
 
         }
 
-        public double CalculateSparepartsPrice(IEnumerable<Sparepart> labours)
+        public double CalculateSparepartsPrice(IEnumerable<Sparepart> spareparts)
         {
             return spareparts.Sum(item => item.GetTotalAmount());
         }

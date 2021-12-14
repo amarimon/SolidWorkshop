@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\CAR\\I+D\\SolidWorkshop\\OCP-Refactor\\OCP-Refactor\\OCP-Refactor.csproj": {}
+    "C:\\src\\amarimon\\SolidWorkshop\\OCP\\OCP-Refactor\\OCP-Refactor.csproj": {}
   },
   "projects": {
-    "C:\\src\\CAR\\I+D\\SolidWorkshop\\OCP-Refactor\\OCP-Refactor\\OCP-Refactor.csproj": {
+    "C:\\src\\amarimon\\SolidWorkshop\\OCP\\OCP-Refactor\\OCP-Refactor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\CAR\\I+D\\SolidWorkshop\\OCP-Refactor\\OCP-Refactor\\OCP-Refactor.csproj",
+        "projectUniqueName": "C:\\src\\amarimon\\SolidWorkshop\\OCP\\OCP-Refactor\\OCP-Refactor.csproj",
         "projectName": "OCP-Refactor",
-        "projectPath": "C:\\src\\CAR\\I+D\\SolidWorkshop\\OCP-Refactor\\OCP-Refactor\\OCP-Refactor.csproj",
+        "projectPath": "C:\\src\\amarimon\\SolidWorkshop\\OCP\\OCP-Refactor\\OCP-Refactor.csproj",
         "packagesPath": "C:\\Users\\ama\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\CAR\\I+D\\SolidWorkshop\\OCP-Refactor\\OCP-Refactor\\obj\\",
+        "outputPath": "C:\\src\\amarimon\\SolidWorkshop\\OCP\\OCP-Refactor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ama\\AppData\\Roaming\\NuGet\\NuGet.Config",

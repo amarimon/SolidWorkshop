@@ -6,7 +6,7 @@ namespace ISP.Domain
     {
         public double CalculateLaboursPrice(IEnumerable<Labour> labours);
 
-        public double CalculateSparepartsPrice(IEnumerable<Sparepart> labours);
+        public double CalculateSparepartsPrice(IEnumerable<Sparepart> spareparts);
 
         public double CalculateTotalPrice();
     }

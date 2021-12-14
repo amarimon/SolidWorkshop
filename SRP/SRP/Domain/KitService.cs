@@ -28,7 +28,7 @@ namespace SRP
 
         internal bool SaveKit(Kit kit)
         {
-            //Validate product
+            //Validate kit
             if (kit == null || kit.KitId < 0 || string.IsNullOrEmpty(kit.Code))
             {
                 return false;

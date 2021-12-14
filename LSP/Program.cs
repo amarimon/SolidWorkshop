@@ -9,10 +9,10 @@ namespace LSP
         {
             const double InitialDistance = 10000;
             
-            Vehicle vehicle = new Vehicle("ABC123", InitialDistance);
+            //Vehicle vehicle = new Vehicle("ABC123", InitialDistance);
 
             //Change the instantiated class to Truck to see LSP violation.
-            //Truck vehicle = new Truck("ABC123", InitialDistance);
+            Truck vehicle = new Truck("ABC123", InitialDistance);
 
             vehicle.AddTrack(new Track
             {
