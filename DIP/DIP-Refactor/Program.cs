@@ -7,7 +7,7 @@ namespace DIP_Refactor
     {
         static void Main(string[] args)
         {
-            var repository = KitRepositoryFactory.Instance.Get("default");
+            var repository = KitRepositoryFactory.Instance.Get("postgresql");
 
             var service = new KitService(repository);
 

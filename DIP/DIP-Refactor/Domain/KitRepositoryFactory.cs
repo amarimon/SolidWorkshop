@@ -36,7 +36,7 @@ namespace DIP_Refactor.Domain
 
             switch (type)
             {
-                case "default":
+                case "postgresql":
                     result = new PostgresqlKitRepository();
                     break;
             }

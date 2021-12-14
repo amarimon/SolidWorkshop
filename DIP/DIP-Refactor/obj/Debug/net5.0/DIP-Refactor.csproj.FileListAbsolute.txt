@@ -13,3 +13,4 @@ C:\src\amarimon\SolidWorkshop\DIP\DIP-Refactor\obj\Debug\net5.0\DIP-Refactor.dll
 C:\src\amarimon\SolidWorkshop\DIP\DIP-Refactor\obj\Debug\net5.0\ref\DIP-Refactor.dll
 C:\src\amarimon\SolidWorkshop\DIP\DIP-Refactor\obj\Debug\net5.0\DIP-Refactor.pdb
 C:\src\amarimon\SolidWorkshop\DIP\DIP-Refactor\obj\Debug\net5.0\DIP-Refactor.genruntimeconfig.cache
+C:\src\amarimon\SolidWorkshop\DIP\DIP-Refactor\obj\Debug\net5.0\DIP-Refactor.csproj.AssemblyReference.cache
