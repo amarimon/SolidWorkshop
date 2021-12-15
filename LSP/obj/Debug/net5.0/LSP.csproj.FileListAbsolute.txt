@@ -29,3 +29,4 @@ C:\src\amarimon\SolidWorkshop\LSP\obj\Debug\net5.0\LSP.dll
 C:\src\amarimon\SolidWorkshop\LSP\obj\Debug\net5.0\ref\LSP.dll
 C:\src\amarimon\SolidWorkshop\LSP\obj\Debug\net5.0\LSP.pdb
 C:\src\amarimon\SolidWorkshop\LSP\obj\Debug\net5.0\LSP.genruntimeconfig.cache
+C:\src\amarimon\SolidWorkshop\LSP\obj\Debug\net5.0\LSP.csproj.AssemblyReference.cache

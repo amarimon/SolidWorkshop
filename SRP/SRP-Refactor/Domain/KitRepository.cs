@@ -20,12 +20,6 @@ namespace SRP_Refactor.Domain
 
         internal bool SaveKit(Kit kit)
         {
-            //Validate product
-            if (kit == null || kit.KitId < 0 || string.IsNullOrEmpty(kit.Code))
-            {
-                return false;
-            }
-
             String sql = String.Format("INSERT INTO kit "
                 + "(id, codigo, pvp) "
                 + "VALUES ({0}, {1}, '{2}') RETURNING id",

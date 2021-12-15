@@ -50,3 +50,4 @@ C:\src\amarimon\SolidWorkshop\SRP\SRP\bin\Debug\net5.0\SRP.dll
 C:\src\amarimon\SolidWorkshop\SRP\SRP\bin\Debug\net5.0\ref\SRP.dll
 C:\src\amarimon\SolidWorkshop\SRP\SRP\bin\Debug\net5.0\SRP.pdb
 C:\src\amarimon\SolidWorkshop\SRP\SRP\obj\Debug\net5.0\SRP.genruntimeconfig.cache
+C:\src\amarimon\SolidWorkshop\SRP\SRP\obj\Debug\net5.0\SRP.csproj.AssemblyReference.cache

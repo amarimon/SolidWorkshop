@@ -32,7 +32,7 @@ namespace DIP_Refactor.Domain
         public IKitRepository Get(string type)
         {
 
-        IKitRepository result = null;
+            IKitRepository result = null;
 
             switch (type)
             {
